@@ -1,6 +1,10 @@
 # DataTable
 A dynamic React component for managing tabular data with features like adding, editing, deleting, searching, and pagination.
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/eb74b59c-182c-4574-90d7-60784e8f7e6e)
+
+
 # Features
 * Add New Entries: Easily add new records with fields for name, gender, and age.
 * Edit Entries: Edit existing records directly within the table.
