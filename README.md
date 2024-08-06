@@ -14,7 +14,8 @@ A dynamic React component for managing tabular data with features like adding, e
 * Responsive Design: Ensures the table looks good on all screen sizes.
 
 # Installation
-* Clone the repository: git clone https: //github.com/yourusername/table-component.git
+* Clone the repository:
+  git clone [https: //github.com/yourusername/table-component.git]
 * Navigate to the project directory: cd table-component
 * Install the dependencies: npm install
 * Start the development server: npm start
